@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Teklab TestNG example1" duration-ms="16134" started-at="2019-10-30T10:40:12 EDT" finished-at="2019-10-30T10:40:28 EDT">
+    <groups>
+    </groups>
+    <test name="Smoke Test on chrome" duration-ms="16134" started-at="2019-10-30T10:40:12 EDT" finished-at="2019-10-30T10:40:28 EDT">
+      <class name="example.FirstExampleSearchTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:example.FirstExampleSearchTestNG@6d00a15d]" name="setUp" is-config="true" duration-ms="6400" started-at="2019-10-30T10:40:12 EDT" finished-at="2019-10-30T10:40:19 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testGoogleSearch()[pri:0, instance:example.FirstExampleSearchTestNG@6d00a15d]" name="testGoogleSearch" duration-ms="9416" started-at="2019-10-30T10:40:19 EDT" finished-at="2019-10-30T10:40:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:example.FirstExampleSearchTestNG@6d00a15d]" name="tearDown" is-config="true" duration-ms="226" started-at="2019-10-30T10:40:28 EDT" finished-at="2019-10-30T10:40:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- example.FirstExampleSearchTestNG -->
+    </test> <!-- Smoke Test on chrome -->
+  </suite> <!-- Teklab TestNG example1 -->
+</testng-results>
